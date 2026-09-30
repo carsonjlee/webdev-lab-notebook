@@ -3,12 +3,13 @@
 This repository contains starter files for the lab notebook. It includes exercises on the following topics:
 
 1. HTML
-2. Accessibility
-3. CSS
-4. CSS Layout (Flexbox and CSS Grid)
-5. Bootstrap
-6. JavaScript
-7. Async JavaScript
-8. jQuery
-9. Node.js
-10. Debugging
+2. Other
+3. Accessibility
+4. CSS
+5. CSS Layout (Flexbox and CSS Grid)
+6. Bootstrap
+7. JavaScript
+8. Async JavaScript
+9. jQuery
+10. Node.js
+11. Debugging
